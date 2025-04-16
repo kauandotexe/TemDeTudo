@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores do app -->
+    <color name="background">#FFFFFF</color>
+    <color name="text"> #F88C1F </color>
+    <color name="secText"> #F4B548 </color>
+    <color name="button"> #F88C1F</color>
+    <color name="contorno"> #4D1E00 </color>
+
+</resources>
